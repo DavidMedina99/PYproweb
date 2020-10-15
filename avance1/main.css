@@ -1,0 +1,35 @@
+
+
+/*
+div {
+    width:1900px ;
+    height:10px ;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.89);
+    padding: 50px;
+    margin: -10px -10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    }
+*/
+ .icon-link{
+max-height: 100px;
+
+
+ }
+
+ .leftside, .rightside{
+
+    height  : 100vh;
+    width: 100%;
+
+ }
+
+ .leftside{
+
+    background: rgba(0, 0, 0, 0.397);
+ }
+ .rightside{
+     background: blue;
+
+
+ }
